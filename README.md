@@ -99,7 +99,9 @@ idf.py -p /dev/cu.usbmodemXXXX flash monitor
 - [Github: ESPHome-Apple-Watch-detection](https://github.com/dalehumby/ESPHome-Apple-Watch-detection)
 - [Github: continuity : An Apple Continuity Protocol Reverse Engineering Project](https://github.com/furiousMAC/continuity/blob/master/messages/nearby_info.md)
 
-
+## 商標
+- Apple、Apple Watch は Apple Inc. の商標です。
+- Matter は Connectivity Standards Alliance の商標です。
 
 ## Build Dependencies (from `dependencies.lock`)
 このリポジトリ自体にはサードパーティ実装を同梱していませんが、ビルド時に以下の依存コンポーネントを使用します。
